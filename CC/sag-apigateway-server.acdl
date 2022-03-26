@@ -34,7 +34,7 @@
         <value>128</value>
     </property>
     <property name="agw.memory.max" many="false" isSecure="false" displayName="agw.memory.max">
-        <value>256</value>
+        <value>2048</value>
     </property>
     <property name="agw.diagnostic.port" many="false" isSecure="false" displayName="agw.diagnostic.port">
         <value>9999</value>
